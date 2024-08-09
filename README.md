@@ -9,7 +9,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. De
 
 ## Aplicaciones en Formato 3DSX Incluidas en el paquete.                                                                  
 * [FBI Reloaded](https://github.com/TheRealZora/FBI-Reloaded/releases)                                                 
-* [ChatGPT3DS](https://github.com/CarsonKompon/ChatGPT3DS/releases)
+* [Nimbus: Pretendo Network](https://github.com/PretendoNetwork/nimbus/releases)
 * [Anemone](https://github.com/astronautlevel2/Anemone3DS/releases)
 * [Universal Updater](https://github.com/Universal-Team/Universal-Updater/releases)
 
@@ -20,6 +20,10 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. De
 * [DSP1](https://github.com/zoogie/DSP1/releases)
 * [Homebrew Launcher](https://github.com/PabloMK7/homebrew_launcher_dummy/releases)
 
+
+## Aplicaciones Quitadas del paquete
+
+* [ChatGPT3DS](https://github.com/CarsonKompon/ChatGPT3DS/releases)
 
 ## Observaciones
 * Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de aplicaciones que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".

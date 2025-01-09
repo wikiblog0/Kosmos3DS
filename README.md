@@ -12,6 +12,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. De
 * [Nimbus: Pretendo Network](https://github.com/PretendoNetwork/nimbus/releases)
 * [Anemone](https://github.com/astronautlevel2/Anemone3DS/releases)
 * [Universal Updater](https://github.com/Universal-Team/Universal-Updater/releases)
+* [3DSident](https://github.com/joel16/3DSident/releases)
 
 
 ## Aplicaciones en Formato CIA Incluidas en el paquete.
